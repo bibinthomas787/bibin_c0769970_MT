@@ -16,7 +16,7 @@ public class SecondPage extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_second_page);
-        textview2 = findViewById(R.id.textView16);
+        textview2 = findViewById(R.id.textView16); 
         textview17 = findViewById(R.id.textView17);
         textView18 = findViewById(R.id.textView18);
         textView18.setText("5 Days");
